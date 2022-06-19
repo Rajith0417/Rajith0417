@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajith0417
 - 👀 I’m interested in Nature, Photography, Invention, Buddhism
 - 🌱 I’m currently learning Angualar 12 and GraphQL
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on CSR activities
 - 📫 How to reach me https://www.linkedin.com/in/rajith-gunasinghe-5475a326/
