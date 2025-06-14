@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajith Gunasinghe</h1>
 <h3 align="center">A passionate frontend Engineer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Swift, Express, Arduino, NativeScript**
+- 🌱 I’m currently learning **Express, NextJS**
 
 - 💬 Ask me about **Angular, SASS,**
 
