@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Express, Docker, AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rajith0417?tab=repositories](https://github.com/Rajith0417?tab=repositories)
-
 - 💬 Ask me about **Angular, SASS,**
 
 - 📫 How to reach me **rajith0417@gmail.com**
